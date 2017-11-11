@@ -2,8 +2,10 @@
 This directory contains Python Selenium exercise files
 
 
-Requirements [Below libraries can be installed using pip.exe on windows & pip in Linux] :
+Requirements [Below libraries/modules can be installed using pip.exe on windows & pip in Linux] :
 
 Python = 2.7
-Python-Selenium library >= 3.0
-Beautifulsoup library
+Python-Selenium module/library >= 3.0
+Beautifulsoup module/library
+codecs module/library
+unittest module/library
